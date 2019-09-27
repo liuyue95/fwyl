@@ -90,7 +90,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -105,7 +105,7 @@
   top:9px;
   width:16px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -152,7 +152,7 @@
   left:0px;
   top:0px;
   width:61px;
-  height:17px;
+  height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -171,7 +171,7 @@
   left:58px;
   top:151px;
   width:61px;
-  height:17px;
+  height:14px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -301,7 +301,7 @@
 #u59 {
   border-width:0px;
   position:absolute;
-  left:301px;
+  left:304px;
   top:147px;
   width:33px;
   height:16px;
@@ -346,7 +346,7 @@
   left:0px;
   top:0px;
   width:61px;
-  height:17px;
+  height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -365,7 +365,7 @@
   left:413px;
   top:148px;
   width:61px;
-  height:17px;
+  height:14px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -442,8 +442,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:61px;
-  height:17px;
+  width:82px;
+  height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -461,8 +461,8 @@
   position:absolute;
   left:602px;
   top:147px;
-  width:61px;
-  height:17px;
+  width:82px;
+  height:14px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -473,7 +473,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:61px;
+  width:82px;
   white-space:nowrap;
 }
 #u65_div {
@@ -481,7 +481,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:41px;
+  width:33px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -495,9 +495,9 @@
 #u65 {
   border-width:0px;
   position:absolute;
-  left:665px;
+  left:685px;
   top:146px;
-  width:41px;
+  width:33px;
   height:16px;
   color:#0066FF;
 }
@@ -506,7 +506,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:41px;
+  width:33px;
   white-space:nowrap;
 }
 #u66_div {
@@ -623,4 +623,101 @@
   width:0px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u70_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:32px;
+  height:32px;
+}
+#u70 {
+  border-width:0px;
+  position:absolute;
+  left:729px;
+  top:130px;
+  width:32px;
+  height:32px;
+}
+#u70_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u71_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:75px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u71 {
+  border-width:0px;
+  position:absolute;
+  left:764px;
+  top:146px;
+  width:75px;
+  height:14px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u71_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:75px;
+  white-space:nowrap;
+}
+#u72_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#0066FF;
+}
+#u72 {
+  border-width:0px;
+  position:absolute;
+  left:851px;
+  top:145px;
+  width:41px;
+  height:16px;
+  color:#0066FF;
+}
+#u72_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  white-space:nowrap;
 }
