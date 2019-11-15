@@ -314,7 +314,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:898px;
+  height:948px;
   background-color:rgba(252, 252, 252, 1);
   background-image:none;
 }
@@ -2073,7 +2073,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:249px;
+  height:299px;
   background-image:none;
 }
 #u34_state0_content {
@@ -3484,6 +3484,117 @@
   width:148px;
   word-wrap:break-word;
 }
+#u50_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(252, 252, 252, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(242, 242, 242, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:249px;
+  width:200px;
+  height:50px;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u50_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(252, 252, 252, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(242, 242, 242, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u50.mouseOver {
+}
+#u50_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(242, 242, 242, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+#u50.selected {
+}
+#u50_text {
+  border-width:0px;
+  position:absolute;
+  left:50px;
+  top:16px;
+  width:148px;
+  word-wrap:break-word;
+}
 #u34_state1 {
   position:relative;
   left:0px;
@@ -3501,7 +3612,7 @@
   width:1px;
   height:1px;
 }
-#u50_div {
+#u51_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3528,7 +3639,7 @@
   color:#999999;
   text-align:left;
 }
-#u50 {
+#u51 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3538,7 +3649,7 @@
   color:#999999;
   text-align:left;
 }
-#u50_div.mouseOver {
+#u51_div.mouseOver {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3565,9 +3676,9 @@
   color:#999999;
   text-align:left;
 }
-#u50.mouseOver {
+#u51.mouseOver {
 }
-#u50_text {
+#u51_text {
   border-width:0px;
   position:absolute;
   left:30px;
@@ -3575,7 +3686,7 @@
   width:168px;
   word-wrap:break-word;
 }
-#u51_div {
+#u52_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3596,7 +3707,7 @@
   text-align:center;
   line-height:14px;
 }
-#u51 {
+#u52 {
   border-width:0px;
   position:absolute;
   left:150px;
@@ -3610,7 +3721,7 @@
   text-align:center;
   line-height:14px;
 }
-#u51_text {
+#u52_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3618,7 +3729,7 @@
   width:16px;
   word-wrap:break-word;
 }
-#u52 {
+#u53 {
   border-width:0px;
   position:absolute;
   left:210px;
@@ -3626,7 +3737,7 @@
   width:1466px;
   height:1092px;
 }
-#u52_input {
+#u53_input {
   border-width:2px;
   position:absolute;
   left:0px;
